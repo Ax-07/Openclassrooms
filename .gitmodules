@@ -22,3 +22,6 @@
 [submodule "p10-openClassRoom"]
 	path = p10-openClassRoom
 	url = https://github.com/Ax-07/p10-openClassRoom.git
+[submodule "p11-openClassRooms-frontend"]
+	path = p11-openClassRooms-frontend
+	url = https://github.com/Ax-07/p11-openClassRooms-frontend.git
