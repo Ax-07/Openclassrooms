@@ -10,3 +10,6 @@
 [submodule "P5-openClassRooms"]
 	path = P5-openClassRooms
 	url = https://github.com/Ax-07/P5-openClassRooms.git
+[submodule "P6-openClassRooms"]
+	path = P6-openClassRooms
+	url = https://github.com/Ax-07/P6-openClassRooms.git
