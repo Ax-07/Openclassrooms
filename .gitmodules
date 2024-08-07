@@ -19,3 +19,6 @@
 [submodule "P9-openClassRooms"]
 	path = P9-openClassRooms
 	url = https://github.com/Ax-07/P9-openClassRooms.git
+[submodule "p10-openClassRoom"]
+	path = p10-openClassRoom
+	url = https://github.com/Ax-07/p10-openClassRoom.git
